@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<category>  
+ <item>  
+   <orderBy>1</orderBy>
+   <goodId>good_01</goodId>
+   <goodName>컴퓨터</goodName>
+   <goodTime>100</goodTime>
+   <goodPrice>50000</goodPrice>
+ </item>
+  <item>  
+   <orderBy>2</orderBy>
+   <goodId>good_02</goodId>
+   <goodName>노트북</goodName>
+   <goodTime>110</goodTime>
+   <goodPrice>60000</goodPrice>
+ </item>
+  <item>  
+   <orderBy>3</orderBy>
+   <goodId>good_03</goodId>
+   <goodName>책상</goodName>
+   <goodTime>120</goodTime>
+   <goodPrice>70000</goodPrice>
+ </item>
+  <item>  
+   <orderBy>4</orderBy>
+   <goodId>good_04</goodId>
+   <goodName>책</goodName>
+   <goodTime>130</goodTime>
+   <goodPrice>80000</goodPrice>
+ </item>
+  <item>  
+   <orderBy>5</orderBy>
+   <goodId>good_05</goodId>
+   <goodName>핸드폰</goodName>
+   <goodTime>140</goodTime>
+   <goodPrice>90000</goodPrice>
+ </item>  
+</category> 
